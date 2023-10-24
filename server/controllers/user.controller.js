@@ -13,16 +13,7 @@ const createToken = (id) => {
 const handleErrors = (err) => {
     let errors = { firstName:"", lastName:"", email: "", password: "" };
     console.log("hahahah",err);
-
-    if (err.message === "Email address is required") {
-      errors.email = "Email address is required";
-    }
-  
-    if (err.message === "Password is required") {
-      errors.password = "That password is incorrect";
-    }
     
-
     if (err.code === 11000) {
       errors.email = "Email is already registered";
       console.log("hahahah",err);
