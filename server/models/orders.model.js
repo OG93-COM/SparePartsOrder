@@ -25,12 +25,12 @@ const ordersSchema = new mongoose.Schema({
   },
   carType : {
     type:String,
-    required:[ true, "Please Add Your Car"],
+    required:[ true, "Please Add Your Car Name"],
     minlength: [3, "Name Car must be at least 3 characters long"]
   },
   fuelCar : {
     type:String,
-    required:[ true, "the Type of is required"],
+    required:[ true, "Fuel is required"],
     enum: ["Fuel", "Diesel", "Gaz"]
   },
   yearsCar : {
