@@ -32,7 +32,9 @@ const Register = (props) => {
     try {
       const { data } = await axios.post("http://localhost:5230/register", { ...values }, { withCredentials: true })
       // console.log(data)
+      navigate("/");
       refreshPage();
+      
 
       if (data) {
         navigate("/");
