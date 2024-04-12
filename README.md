@@ -1,3 +1,4 @@
-![Screen2](https://github.com/OG93-COM/CarPartsOrder/assets/132763749/4b295438-0c99-40f2-9c7a-f3bcc58d191b)
+![Screen2](https://github.com/OG93-COM/CarPartsOrder/assets/132763749/d7664e3e-c74b-4fca-aee4-d8ff8c5e786c)
 
-![CarOrderMERN1](https://github.com/OG93-COM/CarPartsOrder/assets/132763749/fc4cfbc0-53cc-4680-b5f4-71f91425df33)
+![Screen1](https://github.com/OG93-COM/CarPartsOrder/assets/132763749/876c9466-77e7-46a0-83d0-3b8b1ca39b43)
+
